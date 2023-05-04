@@ -64,8 +64,4 @@ foldername <- Lev_4WO
 
 out <- GetDHS(CountryCode,Type,LastFour,foldername)
 
-
-
 ##GetFAO function to get FAO data
-CountryCode,Type,Year,
-ZMIR71FL
